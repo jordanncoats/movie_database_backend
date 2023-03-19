@@ -1,2 +1,2 @@
 # movie_database
-MongoDB, Java Spring Bootr, and React Movie Database
+MongoDB, Java Spring Boot, and React Movie Database
